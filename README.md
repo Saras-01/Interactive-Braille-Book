@@ -29,3 +29,5 @@ Combines Braille pages and audio feedback to teach letters through touch and sou
 3. Press the Question button → activates quiz mode.  
 
 --- 
+## 📸 Project Prototype
+![poc ](https://github.com/user-attachments/assets/e4f33ff5-d2de-461e-afcf-024ccff933b3)
